@@ -1,3 +1,7 @@
+# Contexto de la prueba
+
+Para la ejecución de la prueba de rendimiento se utilizó el sitio público https://test.k6.io/ como endpoint HTTP de prueba. El objetivo es simular carga concurrente y demostrar el uso de k6 para medir solicitudes por segundo, tasa de errores y tiempos de respuesta, sin depender de un backend propio desplegado.
+
 # Métricas de rendimiento
 
 Se realizó una prueba básica de rendimiento utilizando k6.
